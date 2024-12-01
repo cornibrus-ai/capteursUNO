@@ -1,5 +1,5 @@
-# Capteurs avec carte Arduino UNO
-## Projet industriel - système d'alerte électronique
+### Capteurs avec carte Arduino UNO
+#### Projet industriel - système d'alerte électronique
 
 A CESI Labège
 Par BSI IA A1 ETUDIANT
